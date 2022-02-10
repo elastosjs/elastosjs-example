@@ -12,7 +12,7 @@
     "bootstrap": "^4.4.1",
     "ela-js": "0.0.4",
     "fortmatic": "^2.0.5",
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
